@@ -3,8 +3,9 @@
 A detailed analysis on how terrorism spread around the world and the impact caused.
 
 OBJECTIVE:
-• To predict future Attacks based on past successful attacks using different models & 
+<p>• To predict future Attacks based on past successful attacks using different models & 
 do model comparison
+</p>
 • To forecast the future trend of Global Terriorism - Number of Attacks using Time 
 Series Analysis
 
