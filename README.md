@@ -6,8 +6,10 @@ OBJECTIVE:
 <p>• To predict future Attacks based on past successful attacks using different models & 
 do model comparison
 </p>
+<p>
 • To forecast the future trend of Global Terriorism - Number of Attacks using Time 
 Series Analysis
+</p>
 
 Link to ipynb -- https://drive.google.com/file/d/17iKgH3s-fOcGewPGV67UGc_JD9mzBDtl/view?usp=sharing
 
